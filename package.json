@@ -1,0 +1,11 @@
+{
+  "name": "mlb",
+  "version": "1.0.0",
+  "description": "Tools to scrape odds for MLB games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Edwards",
+  "license": "ISC"
+}
