@@ -4,11 +4,12 @@
   "description": "Tools to scrape odds for MLB games",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Tobias Edwards",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^3.4.2"
+    "mocha": "^3.4.2",
+    "should": "^11.2.1"
   }
 }
