@@ -11,5 +11,9 @@
   "devDependencies": {
     "mocha": "^3.4.2",
     "should": "^11.2.1"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "dateformat": "^2.0.0"
   }
 }
