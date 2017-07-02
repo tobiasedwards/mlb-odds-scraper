@@ -27,7 +27,7 @@ describe('fiveThirtyEightScraper', () => {
       games['28 Jun 2017'].should.have.length(15)
       games['29 Jun 2017'].should.have.length(13)
       games['30 Jun 2017'].should.have.length(15)
-      games['1 Jul 2017'].should.have.length(16)
+      games['1 Jul 2017'].should.have.length(17)
     })
 
     it('should correctly reflect the odds for each game', () => {
